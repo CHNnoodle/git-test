@@ -1,0 +1,17 @@
+# Compiled class file
+*.class
+*.pyc
+
+# Log file
+*.log
+
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Mac
+.DS_Store
